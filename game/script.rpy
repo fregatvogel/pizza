@@ -4,7 +4,7 @@
 # name of the character.
 
 define m = Character (("Joe-Sensei"), color = "#3131ff")
-define y = Character (("You"), color = "#ff750f")
+define y = Character (("Me"), color = "#ff750f")
 
 # The game starts here.
 
