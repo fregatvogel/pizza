@@ -3,7 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define m = Character("Eileen")
+define m = Character("Joe")
 define y = Character("You")
 
 # The game starts here.
@@ -20,7 +20,7 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show brood
+    show joe
 
     # These display lines of dialogue.
 
