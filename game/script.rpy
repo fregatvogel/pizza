@@ -26,6 +26,10 @@ label start:
 
     m "Omae wa mo sindeiru."
 
+    hide joe
+
+    show joe2
+    
     y "NANI!?!?"
 
     # This ends the game.
