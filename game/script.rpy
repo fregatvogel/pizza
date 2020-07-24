@@ -3,8 +3,8 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define m = Character (("Joe-Sensei"), color = "#3131ff")
-define y = Character (("Me"), color = "#ff750f")
+define m = Character (("Joe-Sensei"), color = "#88d8c0")
+define y = Character (("Me"), color = "#33eb91")
 
 # The game starts here.
 
