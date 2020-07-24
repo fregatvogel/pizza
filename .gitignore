@@ -7,3 +7,6 @@
 
 # Build log
 log.txt
+
+*.rpyc
+*.rpymc
