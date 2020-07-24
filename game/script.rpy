@@ -24,7 +24,7 @@ label start:
 
     # These display lines of dialogue.
 
-    m "Omae wa mo sindeiru."
+    m "Omae wa mo sindeiru." (what_color="#828")
 
     hide joe
 
