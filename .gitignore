@@ -1,0 +1,8 @@
+# Vscode local files
+/.vscode
+
+# Engine cache
+/game/cache/*
+
+# Build log
+log.txt
