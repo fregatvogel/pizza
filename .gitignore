@@ -1,12 +1,13 @@
 # Vscode local files
 /.vscode
 
-# Engine cache
+# Engine auto generated files
 /game/cache/
 /game/saves/
 
-# Build log
-**/*.txt
+# Unwanted file extensions
 
+**/*.txt
+# Compiled .rpy files
 **/*.rpyc
 **/*.rpymc
