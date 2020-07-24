@@ -3,6 +3,7 @@
 
 # Engine cache
 /game/cache/*
+/game/saves/*
 
 # Build log
 log.txt
