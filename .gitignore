@@ -6,7 +6,7 @@
 /game/saves/
 
 # Build log
-log.txt
+**/*.txt
 
 **/*.rpyc
 **/*.rpymc
