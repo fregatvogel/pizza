@@ -3,8 +3,8 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define m = Character("Eileen")
+define y = Character("You")
 
 # The game starts here.
 
@@ -24,9 +24,9 @@ label start:
 
     # These display lines of dialogue.
 
-    e "Omae wa mo sindeiru."
+    m "Omae wa mo sindeiru."
 
-    e "NANI!?!?"
+    y "NANI!?!?"
 
     # This ends the game.
 
