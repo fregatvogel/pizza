@@ -1,7 +1,9 @@
 ﻿# The game starts here.
 
-label start:
 
+
+label start:
+    
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
@@ -12,7 +14,11 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show joe
+    show phonepizza
+    show phonetextbox at Position(xpos=0.38,ypos=0.73) with dissolve
+    show text "{color=#a54545}{size=46}Hey!{/color}" at Position(xpos=0.38,ypos=0.69) with dissolve
+    
+   
 
     # These display lines of dialogue.
 
