@@ -1,0 +1,3 @@
+label gamer:
+    "Gamer"
+    return
